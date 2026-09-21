@@ -1,0 +1,17 @@
+{
+  "SOLEADO": {
+    "nombre": "Soleado",
+    "mods": {},
+    "icono": 10
+  },
+  "NIEVE": {
+    "nombre": "Nieve",
+    "mods": {
+      "agi": -0.2,
+      "elemBonus": {
+        "hielo": 0.2
+      }
+    },
+    "icono": 11
+  }
+}

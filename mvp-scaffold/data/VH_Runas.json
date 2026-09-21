@@ -1,0 +1,64 @@
+{
+  "E_FUEGO_1": {
+    "nombre": "Rún de Fuego",
+    "rareza": 1,
+    "tipo": "ofensiva",
+    "elemento": "fuego",
+    "efecto": {
+      "stat": "pAtk",
+      "mod": 0.08
+    },
+    "sinergia": [
+      "HIELO"
+    ],
+    "descripcion": "Has encontrado una Rún de Fuego. Su poder es modesto, pero útil."
+  },
+  "D_ESCUDO_1": {
+    "nombre": "Rún de Escudo",
+    "rareza": 2,
+    "tipo": "defensiva",
+    "elemento": "null",
+    "efecto": {
+      "stat": "pDef",
+      "mod": 0.12
+    },
+    "sinergia": [],
+    "descripcion": "Has desenterrado una Rún de Resistencia. Un hallazgo valioso."
+  },
+  "S_VIENTO_1": {
+    "nombre": "Rún del Viento",
+    "rareza": 2,
+    "tipo": "soporte",
+    "elemento": "null",
+    "efecto": {
+      "stat": "agi",
+      "mod": 0.1
+    },
+    "sinergia": [],
+    "descripcion": "El viento de Njörðr agiliza tus pasos."
+  },
+  "E_THOR_1": {
+    "nombre": "Rún de Thor",
+    "rareza": 3,
+    "tipo": "ofensiva",
+    "elemento": "rayo",
+    "efecto": {
+      "stat": "pAtk",
+      "mod": 0.25
+    },
+    "sinergia": [],
+    "descripcion": "¡Una Rún de Thor! El poder del trueno te acompaña."
+  },
+  "U_ODIN_1": {
+    "nombre": "Rún de Odín",
+    "rareza": 4,
+    "tipo": "unica",
+    "elemento": "null",
+    "efecto": {
+      "stat": "slots",
+      "mod": 1
+    },
+    "sinergia": [],
+    "descripcion": "¡Has obtenido una Rún de Odín! El padre de los dioses te observa."
+  }
+}

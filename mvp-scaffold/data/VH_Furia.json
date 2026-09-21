@@ -1,0 +1,14 @@
+{
+  "cargaAtaque": 0.1,
+  "cargaDanioRecibido": 0.15,
+  "umbralRiesgo": 0.5,
+  "multiplicadorRiesgo": 2.0,
+  "gloriaMuerte": {
+    "bonusDanio": 3.0,
+    "penalizacion": 0.5,
+    "duracionTurnos": 1
+  },
+  "ragnarokEirik": {
+    "inmortalTurnos": 3
+  }
+}

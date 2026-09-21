@@ -1,0 +1,60 @@
+{
+  "FENRIR": {
+    "nombre": "Fenrir",
+    "capa": "bestia",
+    "pasiva": {
+      "effects": [
+        {
+          "stat": "pAtkVsBestia",
+          "mod": 0.2
+        },
+        {
+          "stat": "agi",
+          "mod": 0.1
+        }
+      ]
+    },
+    "transform": {
+      "duracionTurnos": 3,
+      "mod": [
+        {
+          "stat": "pAtk",
+          "mod": 0.4
+        },
+        {
+          "stat": "agi",
+          "mod": 0.25
+        }
+      ],
+      "estadoAnexo": "sangrado",
+      "vecesPorCombate": 1
+    },
+    "invocacion": {
+      "skillId": 201,
+      "nombre": "Aullido de la Manada"
+    },
+    "aprendibles": [
+      {
+        "skillId": 202,
+        "nivelGE": 5
+      },
+      {
+        "skillId": 203,
+        "nivelGE": 20
+      },
+      {
+        "skillId": 204,
+        "nivelGE": 50
+      }
+    ],
+    "expNiveles": [
+      0,
+      500,
+      1500,
+      5000,
+      10000,
+      30000,
+      60000
+    ]
+  }
+}

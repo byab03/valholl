@@ -4,6 +4,16 @@
     "mods": {},
     "icono": 10
   },
+  "LLUVIA": {
+    "nombre": "Lluvia",
+    "mods": {
+      "elemBonus": {
+        "agua": 0.2,
+        "fuego": -0.2
+      }
+    },
+    "icono": 11
+  },
   "NIEVE": {
     "nombre": "Nieve",
     "mods": {
@@ -12,6 +22,60 @@
         "hielo": 0.2
       }
     },
-    "icono": 11
+    "icono": 12
+  },
+  "TORMENTA": {
+    "nombre": "Tormenta",
+    "mods": {
+      "prec": -0.3,
+      "elemBonus": {
+        "rayo": 0.3
+      }
+    },
+    "icono": 13
+  },
+  "NIEBLA": {
+    "nombre": "Niebla",
+    "mods": {
+      "prec": -0.2,
+      "eva": 0.2
+    },
+    "icono": 14
+  },
+  "CENIZAS": {
+    "nombre": "Cenizas",
+    "mods": {
+      "hpPerTurn": -0.02,
+      "elemBonus": {
+        "fuego": 0.3
+      }
+    },
+    "icono": 15
+  },
+  "AURORA": {
+    "nombre": "Aurora",
+    "mods": {
+      "agi": 0.2,
+      "mdf": 0.2
+    },
+    "icono": 16
+  },
+  "TORMENTA_HIELO": {
+    "nombre": "Tormenta de Hielo",
+    "mods": {
+      "agi": -0.5,
+      "prec": -0.5
+    },
+    "icono": 17
+  },
+  "FUEGO_CREPUSCULO": {
+    "nombre": "Fuego del Crepúsculo",
+    "mods": {
+      "hpPerTurn": -0.05,
+      "elemBonus": {
+        "fuego": 0.5
+      }
+    },
+    "icono": 18
   }
 }

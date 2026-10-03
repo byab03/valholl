@@ -1,10 +1,10 @@
 # VALHÖLL: THE FIVE'S ODYSSEY — GDD CONSOLIDADO
 
-**Versión:** 1.3 (narrativa corregida)
-**Fecha:** 2026-09-14 (v1.0–1.2: 2026-09-12)
+**Versión:** 1.3.1 (correcciones inconsistencias)
+**Fecha:** 2026-10-03
 **Base:** GDD original (DeepSeek, 13050 tokens) → auditoría `00-Auditoria.md` → optimización `03-Optimizacion.md`
 **Regla:** Nada se descarta. Todo el contenido no-nuclear vive intacto en `02-Compendio.md`.
-**Nota de título:** el usuario mantiene "The Five's Odyssey" como decisión consciente pese a los 6 héroes (ver `03-Optimizacion.md` §1); se registra para no reabrir el debate en el futuro.
+**Nota de título:** "The Five's Odyssey" = **5 héroes verdaderos** (Eirik, Sigrid, Brandr, Hvitserk, Fenja) + **Einar** (Domador de Bestias) como personaje extra que se une al elenco pero no es "uno de los Cinco" — su arco es paralelo (conexión con la naturaleza, no redención por hebra cortada). Decisión consciente registrada para no reabrir.
 **v1.3:** núcleo temático reescrito — Odín con tesis filosófica propia (§5.4), actos con revelación escalonada, final canónico reinterpretado. Ver `03-Optimizacion.md` §8.
 
 ---
